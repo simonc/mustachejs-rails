@@ -1,6 +1,6 @@
 # mustachejs-rails
 
-Use mustache.js with Rails 3.
+Use mustache.js with Rails 3 or 4.
 
 ## Installation
 
